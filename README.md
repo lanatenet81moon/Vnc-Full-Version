@@ -235,4 +235,4 @@ This repository serves as the official landing page for VNC. The software is dis
 **Get the most recent version of VNC today!**
 
 ---
-**Last updated:** 2026-10-27 23:35:12 UTC
+**Last updated:** 2026-10-28 04:33:39 UTC
